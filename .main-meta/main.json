@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-led-toggle-mplab-mcc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Button Toggle LED",
         "projectName": "avr128da48-cnano-led-toggle-mplab-mcc",
         "shortDescription": "The LED is turned off while the button is pressed and turned on while the button is released",
