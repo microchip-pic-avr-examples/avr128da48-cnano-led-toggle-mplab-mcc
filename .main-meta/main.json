@@ -5,9 +5,9 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-led-toggle-mplab-mcc",
         "version": "1.0.1",
-        "displayName": "Button Toggle LED",
+        "displayName": "LED Toggle Using a Button",
         "projectName": "avr128da48-cnano-led-toggle-mplab-mcc",
-        "shortDescription": "The LED is turned off while the button is pressed and turned on while the button is released",
+        "shortDescription": "This repository provides an MPLAB X project with an MCC (MPLAB Code Configurator) generated code for a basic application using an LED and a Button. The LED is turned off while the button is pressed and turned on while the button is released",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=5.40.0"
@@ -38,20 +38,17 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
-            ]            			
+               "Peripherals",
+			   "GPIO"
+            ],         			
         ],
         "peripherals": [
-            "",""
+            "GPIO",
         ],
         "keywords": [
             "LED toggle",
-            "Button Press"			
+            "Getting Started"			
         ],
 		"additionalData": {
 			"longDescription": {
