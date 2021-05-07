@@ -41,10 +41,10 @@
             [
                "Peripherals",
 			   "GPIO"
-            ],         			
+            ]  			
         ],
         "peripherals": [
-            "GPIO",
+            "GPIO"
         ],
         "keywords": [
             "LED toggle",
